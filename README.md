@@ -1,4 +1,4 @@
-# pinPasswordSystemOfWindows10
+# Pin Password System of Windows 10
 This is how Windows 10's pin system works.Also you can set your password with letters if you want.
 
 
