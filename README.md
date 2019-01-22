@@ -1,12 +1,12 @@
 # pinPasswordSystemOfWindows10
 This is how Windows 10's pin system works.Also you can set your password with letters if you want.
-# Main Interface of Program
+## Main Interface of Program
 You must enter a keyword or number which textsize you want.
 ![s1](https://user-images.githubusercontent.com/42742872/51554329-164b5f00-1e86-11e9-8cd5-3620e6702330.PNG)
 #### Like This
 You can also enter letters if you want.Program will count them.
 ![s2](https://user-images.githubusercontent.com/42742872/51554503-82c65e00-1e86-11e9-8bbe-dd3b67acf865.PNG)
-# Second Form
+## Second Form
 In this form Program will says what is your password and lenght of your password and Form2's textbox's textlenght.
 ![s3](https://user-images.githubusercontent.com/42742872/51554575-a7223a80-1e86-11e9-814e-9c6559298fe6.PNG)
 #### Entering True Password
