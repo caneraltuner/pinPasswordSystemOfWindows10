@@ -26,11 +26,11 @@ namespace sifreSistemi
         {
             if (textBox1.Text == Form1.password && textBox1.TextLength == Form1.textLenght)
             {
-                MessageBox.Show("Acess Granted");
+                MessageBox.Show("Access Granted");
             }
             else if (textBox1.Text != Form1.password && textBox1.TextLength == Form1.textLenght)
             {
-                MessageBox.Show("Acess Denied");
+                MessageBox.Show("Access Denied");
             }
         }
 
