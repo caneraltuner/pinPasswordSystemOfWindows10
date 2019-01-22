@@ -1,0 +1,9 @@
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\bin\Debug\sifreSistemi.exe
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\bin\Debug\sifreSistemi.pdb
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\obj\Debug\sifreSistemi.csprojResolveAssemblyReference.cache
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\obj\Debug\sifreSistemi.Form1.resources
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\obj\Debug\sifreSistemi.Properties.Resources.resources
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\obj\Debug\sifreSistemi.csproj.GenerateResource.Cache
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\obj\Debug\sifreSistemi.exe
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\obj\Debug\sifreSistemi.pdb
+C:\Users\caner\Desktop\c# projelerim\sifreSistemi\sifreSistemi\obj\Debug\sifreSistemi.Form2.resources
